@@ -15,7 +15,6 @@ Material Design 是以后 Android 的主流设计风格，现在已经越来越�
 - [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 - [Android 5.0 文档](https://developer.android.com/training/material/index.html)
 - [开始学习 Materila Design](https://bboyfeiyu.gitbooks.io/android-tech-frontier/content/issue-8/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0Material%20Design.html)
-
 - [Android Design Support Library概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
 - [Android Material Design简单使用](http://www.jianshu.com/p/107a2529a56f)
 - [Material Design Library 使用汇总](http://www.jianshu.com/p/40efd44802ef)
